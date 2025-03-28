@@ -13,9 +13,9 @@ This file provides demographic information about the subjects involved in the st
 - id: Unique identifier for the subject.
 - device_id: Unique identifier for wearable device.
 - state: State where subject resides
-- age: Subject's Age
-- height: Subject's Height
-- weight: subject's Weight
+- age: Subject's age
+- height: Subject's height
+- weight: Subject's weight
 
 ### 2. synthetic_timeseries_data.csv
 
@@ -31,6 +31,6 @@ This file provides timeseries data about the activity of subjects including the 
 - distances: Distance covered by the subject while being active
 - steps: Steps taken by the subject
 - sleep: 
-- weight: weight of the subject
+- weight: Weight of the subject
 - location: Location where the actvity was recorded
 
