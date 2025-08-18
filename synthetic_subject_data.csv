@@ -1,4 +1,4 @@
-subject_id,device_id,state,age,height,weight
+user_id,device_id,state,age,height,weight
 c12574be,13,GA,42,56,167
 db8af739,19,MP,30,64,175
 fa583007,14,WY,48,71,157
