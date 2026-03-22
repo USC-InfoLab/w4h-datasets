@@ -1,53 +1,25 @@
-# Contributing to w4h-db
+# Contributing to W4H Tookit
 
-Thank you for considering contributing to w4h-db! We appreciate any help you can provide.
+Thank you for considering contributing! We appreciate your help in making [Project Name] better.
 
 ## How to Contribute
 
-1. **Fork the Repository**:
-   - Click the "Fork" button at the top-right corner of the repository page.
+We follow the standard GitHub pull request workflow:
 
-2. **Clone Your Fork**:
-   - Clone your forked repository to your local machine using:
-     ```bash
-     git clone https://github.com/your-username/your-repo.git
-     ```
-
-3. **Create a New Branch**:
-   - Create a new branch for your changes:
-     ```bash
-     git checkout -b my-new-feature
-     ```
-
-4. **Make Your Changes**:
-   - Make your changes in the new branch.
-
-5. **Commit Your Changes**:
-   - Commit your changes with a meaningful message:
-     ```bash
-     git commit -am 'Add new feature'
-     ```
-
-6. **Push to Your Fork**:
-   - Push your changes to your forked repository:
-     ```bash
-     git push origin my-new-feature
-     ```
-
-7. **Create a Pull Request**:
-   - Go to the original repository and create a pull request from your branch.
-
-## Code of Conduct
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
+* **Fork & Branch:** Fork the repository and create a new feature branch for your work.
+* **Make Changes:** Implement your feature or bug fix. *(Note: If applicable, add any project-specific setup or testing steps here).*
+* **Commit & Push:** Commit your changes with clear, descriptive messages and push them to your fork.
+* **Submit a PR:** Open a Pull Request against our main repository. Please include a summary of your changes and link any relevant issues.
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please open an issue on our [issue tracker](https://github.com/your-username/your-repo/issues).
+If you find a bug or have a feature request, please open an issue on the [Issues tab](../../issues) of this repository.
+
+## Code of Conduct
+
+To keep our community welcoming and collaborative, please review and follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
 
 ## Additional Resources
 
-- [GitHub Documentation](https://docs.github.com/en)
-- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-Thank you for your contribution!
+* [GitHub Documentation](https://docs.github.com/en)
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
