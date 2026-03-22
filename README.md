@@ -1,6 +1,6 @@
 # W4H Datasets
 
-W4H sample datasets.
+Sample datasets for the W4H Toolkit.
 
 ## Fitbit Dataset
 
