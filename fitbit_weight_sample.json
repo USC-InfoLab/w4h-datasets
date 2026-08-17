@@ -1,0 +1,182 @@
+[
+  {
+    "id": "02f77d2",
+    "date": "2018-10-13",
+    "time": "23:59:59+00:00",
+    "weight": "80.1",
+    "bmi": "26.13",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-14",
+    "time": "23:59:59+00:00",
+    "weight": "78.7",
+    "bmi": "25.65",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-15",
+    "time": "23:59:59+00:00",
+    "weight": "77.0",
+    "bmi": "25.09",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-16",
+    "time": "23:59:59+00:00",
+    "weight": "77.3",
+    "bmi": "25.21",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-17",
+    "time": "23:59:59+00:00",
+    "weight": "77.8",
+    "bmi": "25.36",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-18",
+    "time": "23:59:59+00:00",
+    "weight": "77.8",
+    "bmi": "25.36",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-19",
+    "time": "23:59:59+00:00",
+    "weight": "76.8",
+    "bmi": "25.05",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-20",
+    "time": "23:59:59+00:00",
+    "weight": "77.5",
+    "bmi": "25.25",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-21",
+    "time": "23:59:59+00:00",
+    "weight": "76.3",
+    "bmi": "24.89",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-22",
+    "time": "23:59:59+00:00",
+    "weight": "76.3",
+    "bmi": "24.89",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-23",
+    "time": "23:59:59+00:00",
+    "weight": "76.0",
+    "bmi": "24.78",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-24",
+    "time": "23:59:59+00:00",
+    "weight": "77.0",
+    "bmi": "25.11",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-25",
+    "time": "23:59:59+00:00",
+    "weight": "77.1",
+    "bmi": "25.12",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-26",
+    "time": "23:59:59+00:00",
+    "weight": "77.6",
+    "bmi": "25.28",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-27",
+    "time": "23:59:59+00:00",
+    "weight": "76.5",
+    "bmi": "24.94",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-28",
+    "time": "23:59:59+00:00",
+    "weight": "76.7",
+    "bmi": "25.0",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-29",
+    "time": "23:59:59+00:00",
+    "weight": "75.2",
+    "bmi": "24.52",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-30",
+    "time": "23:59:59+00:00",
+    "weight": "75.5",
+    "bmi": "24.62",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-10-31",
+    "time": "23:59:59+00:00",
+    "weight": "74.5",
+    "bmi": "24.28",
+    "fat_percent": "",
+    "source": "API"
+  },
+  {
+    "id": "02f77d2",
+    "date": "2018-11-01",
+    "time": "23:59:59+00:00",
+    "weight": "74.0",
+    "bmi": "24.12",
+    "fat_percent": "",
+    "source": "API"
+  }
+]
